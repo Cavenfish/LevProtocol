@@ -18,3 +18,8 @@ Eventually, I want to implement smart contracts that mnanage the positions.
 This will be similar to Bull tokens, but it will borrow the
 shorted token, and sell for stablecoins (which will be 
 deposited in Tranquil)
+
+## Why Lev?
+
+Lev means lion in Czech, which is a cool cat. Plus Lev can be short
+for leverage. 
